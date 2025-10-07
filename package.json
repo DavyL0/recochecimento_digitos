@@ -1,0 +1,20 @@
+{
+  "name": "recochecimento_digitos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavyL0/recochecimento_digitos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavyL0/recochecimento_digitos/issues"
+  },
+  "homepage": "https://github.com/DavyL0/recochecimento_digitos#readme"
+}
